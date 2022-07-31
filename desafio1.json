@@ -1,0 +1,16 @@
+{
+  "column-name": "name",
+  "table-with-users": "users",
+  "column-plan": "plan",
+  "table-with-plans": "plans",
+  "column_history_of_plays": "song_id",
+  "table-with-contain-history-of-plays": "history",
+  "column-follow-artist": "singer_id",
+  "table-with-contain-follow-artist": "follows",
+  "column-artist": "name",
+  "table-with-contain-artist": "singers",
+  "column-album": "name",
+  "table-with-contain-albuns": "albuns",
+  "column-songs": "song_name",
+  "table-with-contain-songs": "songs"
+}
